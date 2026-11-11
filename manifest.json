@@ -1,0 +1,11 @@
+{
+  "id": "com.syacucloud.heading-anchor-links",
+  "name": "Heading Anchor Links",
+  "version": "0.1.0",
+  "description": "위키 페이지 링크(https://console.nimbalyst.com/app/page/<id>#절-이름)를 누르면 페이지를 연 뒤 그 절로 스크롤합니다.",
+  "author": "SYacuCLoud",
+  "main": "index.js",
+  "apiVersion": "1.0.0",
+  "defaultEnabled": true,
+  "contributions": {}
+}
